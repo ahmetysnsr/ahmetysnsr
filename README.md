@@ -35,7 +35,7 @@ Passionate about designing efficient system architectures, crafting high-perform
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats 
 
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmetysnsr&show_icons=true&theme=transparent&hide_border=true" height="150" alt="GitHub Stats" />
