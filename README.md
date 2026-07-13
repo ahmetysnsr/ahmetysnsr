@@ -44,11 +44,13 @@ Passionate about designing efficient system architectures, crafting high-perform
 
 ---
 
-### 🏆 GitHub Trophies
+### ⚡ Quick Overview
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmetysnsr&theme=transparent&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
+| 🎓 Education | 🎯 Focus | 🎹 Interests |
+| :--- | :--- | :--- |
+| **Software Engineering Student** | Full-Stack Systems & IoT | Classical Piano |
+| **42 Network Curriculum** | Embedded Firmware (STM32) | Fitness & Weight Training |
+| **Continuous Learner** | Autonomous AI Agents | Creative Problem Solving |
 
 ---
 
