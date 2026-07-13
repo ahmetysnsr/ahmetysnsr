@@ -20,10 +20,9 @@
 
 <!-- Dynamic cards that automatically update with your GitHub activity -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmetysnsr&show_icons=true&theme=transparent&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetysnsr&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmetysnsr&show_icons=true&theme=transparent&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmetysnsr&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Languages" />
 </p>
-
 ---
 
 ### 📫 Connect with Me
