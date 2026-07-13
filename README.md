@@ -1,4 +1,4 @@
-# Hi there! I'm [Your Name] 👋
+# Hi there! I'm Ahmet Yasin 👋
 
 **Full-Stack Developer** & **Software Engineering Student** focused on building clean, efficient, and scalable software.
 
@@ -20,8 +20,8 @@
 
 <!-- Dynamic cards that automatically update with your GitHub activity -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=transparent&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmetysnsr&show_icons=true&theme=transparent&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetysnsr&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
 ---
@@ -29,10 +29,7 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/[your-linkedin-username]" target="_blank">
+  <a href="https://linkedin.com/in/ahmetysnsr" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:[your-email@example.com]">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
